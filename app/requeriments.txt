@@ -1,0 +1,10 @@
+numpy
+fastapi
+uvicorn
+scikit-learn
+pickle5
+pydantic
+requests
+pypi-json
+xgboost
+lightgbm==3.3.0
